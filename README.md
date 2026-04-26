@@ -38,5 +38,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 the tools we have deel with:
 
+coderabbit: dealing with github pull request and give some advices and instructions for yout project and assign it with your github repositry
+
+Trading View : webiste for take some widgets for you project
+
 Inngest
 shadcn@4.2.0
