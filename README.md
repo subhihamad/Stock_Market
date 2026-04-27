@@ -42,5 +42,7 @@ coderabbit: dealing with github pull request and give some advices and instructi
 
 Trading View : webiste for take some widgets for you project
 
+react hook form :for form validations and handling the errros
+
 Inngest
 shadcn@4.2.0
